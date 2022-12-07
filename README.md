@@ -1,17 +1,9 @@
-# Vitrine Alura - Data Science/Front
+Projeto desenvolvido no curso de DataScience: Powe BI da Alura, ministrado pelo Instrutor Daniel Siqueira. Nele foi abordado os seguintes temas:
 
-Vitrine utilizada para movimentação do perfil e portfólio para projetos pessoais e para carreira.
+Aprender sobre a área de BI
+Entender o por quê o Power BI é um dos softwares mais usados na área
+Aprender a instalar e a importar diferentes tipos de dados
+Aprender a tratar dados
+Como construir um dashboard bem bonito e profissional para utilizá-lo como seu portfólio
+Veja meu projeto em: https://github.com/danielscremim/vitrine
 
-| :placard: Vitrine.Dev |  Daniel  |
-| -------------  | --- |
-| :sparkles: Daniel Scremim  | **Alura Vitrine**
-| :label: Tecnologias | DAX, M, html, CSS, JS (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
