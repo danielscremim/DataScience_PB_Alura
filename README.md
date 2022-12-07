@@ -1,11 +1,11 @@
-# Nome do meu projeto
+# Vitrine Alura - Data Science/Front
 
-Rápida descrição do objetivo de fazer esse projeto
+Vitrine utilizada para movimentação do perfil e portfólio para projetos pessoais e para carreira.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  Daniel  |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :sparkles: Daniel Scremim  | **Alura Vitrine**
+| :label: Tecnologias | DAX, M, html, CSS, JS (tecnologias utilizadas)
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
