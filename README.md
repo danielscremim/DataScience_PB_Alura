@@ -5,5 +5,5 @@ Entender o por quê o Power BI é um dos softwares mais usados na área
 Aprender a instalar e a importar diferentes tipos de dados
 Aprender a tratar dados
 Como construir um dashboard bem bonito e profissional para utilizá-lo como seu portfólio
-Veja meu projeto em: https://github.com/danielscremim/vitrine
+Veja meu projeto em: https://github.com/danielscremim/DataScience_PB_Alura
 
